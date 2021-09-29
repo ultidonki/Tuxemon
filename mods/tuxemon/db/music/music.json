@@ -70,5 +70,37 @@
     {
         "slug" : "music_sphalian_theme",
         "file" : "Digital_Native.ogg"
+    },
+    {
+        "slug" : "music_dizzy_spells",
+        "file" : "A Night Of Dizzy Spells.ogg"
+    },
+    {
+        "slug" : "music_come_find_me",
+        "file" : "Come and Find Me.ogg"
+    },
+    {
+        "slug" : "music_airship",
+        "file" : "8bit airship.ogg"
+    },
+    {
+        "slug" : "music_arpanauts",
+        "file" : "Arpanauts.ogg"
+    },
+    {
+        "slug" : "music_underclocked",
+        "file" : "Underclocked.ogg"
+    },
+    {
+        "slug" : "music_havok_main",
+        "file" : "HHavok-main.ogg"
+    },
+    {
+        "slug" : "music_boss_intro",
+        "file" : "boss  introduction.mp3"
+    },
+    {
+        "slug" : "music_valor_heroes",
+        "file" : "Valor of Heroes.ogg"
     }
 ]

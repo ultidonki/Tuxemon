@@ -296,6 +296,9 @@ is licensed under [XYG Open Source License v1.1](http://kelvinshadewing.net/?id=
 
 * ["MK Buildings"](https://wiki.tuxemon.org/index.php?title=File:MK_buildings.png) adapted by Mircea Kitsune from Buildings and Features and Doors by Kelvin Shadewing. Hospital adapted by Sanglorian.  
 
+* ["Oceanset Outside"](https://gitlab.com/solarus-games/solarus-free-resource-pack)
+is by Max Mraz, from the Solarus Free Resource Pack, under CC-BY-4.0.
+
 ### Tuxemon
 
 * ["Bamboon"](https://git.tuxemon.org:3000/tuxemon/tuxemon/blob/development/resources/gfx/sprites/battle/bamboon-front.png)

@@ -1,0 +1,83 @@
+{
+    "maps": [
+        {
+            "fileName": "water_lower_village.tmx",
+            "height": 384,
+            "width": 640,
+            "x": 112,
+            "y": 560
+        },
+        {
+            "fileName": "water_volcano_village.tmx",
+            "height": 480,
+            "width": 320,
+            "x": 880,
+            "y": -1248
+        },
+        {
+            "fileName": "water_route_ice.tmx",
+            "height": 480,
+            "width": 480,
+            "x": 400,
+            "y": -1200
+        },
+        {
+            "fileName": "water_snow_village.tmx",
+            "height": 480,
+            "width": 480,
+            "x": 400,
+            "y": -1680
+        },
+        {
+            "fileName": "water_river_village.tmx",
+            "height": 480,
+            "width": 320,
+            "x": 240,
+            "y": -720
+        },
+        {
+            "fileName": "water_route_grass.tmx",
+            "height": 800,
+            "width": 480,
+            "x": 128,
+            "y": -240
+        },
+        {
+            "fileName": "water_outskirts.tmx",
+            "height": 480,
+            "width": 480,
+            "x": -368,
+            "y": 688
+        },
+        {
+            "fileName": "water_cathedral.tmx",
+            "height": 960,
+            "width": 800,
+            "x": 800,
+            "y": -16
+        },
+        {
+            "fileName": "water_underwater.tmx",
+            "height": 800,
+            "width": 800,
+            "x": 1216,
+            "y": -848
+        },
+        {
+            "fileName": "water_end_of_desert.tmx",
+            "height": 480,
+            "width": 800,
+            "x": 496,
+            "y": 944
+        },
+        {
+            "fileName": "water_volcano_path.tmx",
+            "height": 320,
+            "width": 320,
+            "x": 880,
+            "y": -1568
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
