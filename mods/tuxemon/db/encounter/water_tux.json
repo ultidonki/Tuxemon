@@ -1,0 +1,11 @@
+{"slug": "water_tux","monsters": [
+
+
+
+
+{ "monster": "conifrost","encounter_rate":100,"level_range": [30,31]}
+
+
+
+
+] }
