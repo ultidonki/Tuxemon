@@ -168,7 +168,6 @@ class CombatState(CombatAnimations):
        obvs, not ideal, maybe someday make it better? (see transition_phase)
     """
 
-    background_filename = "gfx/ui/combat/battle_bg03.png"
     draw_borders = False
     escape_key_exits = False
 
@@ -196,6 +195,7 @@ class CombatState(CombatAnimations):
         self.show_combat_dialog()
         self.transition_phase("begin")
         self.task(partial(setattr, self, "phase", "ready"), 3)
+
 
     def update(self, time_delta: float) -> None:
         """
