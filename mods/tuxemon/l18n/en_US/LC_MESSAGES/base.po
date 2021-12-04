@@ -3666,7 +3666,7 @@ msgstr "Nice Mayor: Oh my goodness! My son has stolen your Agnite! I am so sorry
 msgid "water_nice_mayor10"
 msgstr "Here, take 2 of my strongest Tuxemon - please defeat my son and teach him a lesson!"
 msgid "water_nice_mayor11"
-msgstr "You got PROPELLORCAT and BUGNIN!"
+msgstr "You got PROPELLERCAT and BUGNIN!"
 msgid "water_nice_mayor12"
 msgstr "I'm so sorry, my son has stolen your Tuxemon! Please defeat him and teach him a lesson!"
 
