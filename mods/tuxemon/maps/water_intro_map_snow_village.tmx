@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="30" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="2">
+<map version="1.2" tiledversion="1.3.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="30" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="3">
  <properties>
   <property name="edges" value="clamped"/>
  </properties>
@@ -286,6 +286,12 @@
     <property name="act20" value="set_variable water_intro_map_snow_village:yes"/>
     <property name="act99" value="transition_teleport water_intro_map_hot_village.tmx,4,40,0.5"/>
     <property name="cond1 " value="not variable_set water_intro_map_snow_village:yes"/>
+   </properties>
+  </object>
+  <object id="2" name="Skip if button pushed" type="event" x="288" y="320" width="16" height="16">
+   <properties>
+    <property name="act1" value="transition_teleport water_intro_logo.tmx,7,4,0.5"/>
+    <property name="cond1" value="is button_pressed K_RETURN"/>
    </properties>
   </object>
  </objectgroup>

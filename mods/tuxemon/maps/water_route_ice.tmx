@@ -270,13 +270,13 @@
   </object>
   <object id="21" name="Teleport to Lower Village" type="event" x="352" y="304" width="16" height="16">
    <properties>
-    <property name="act1" value="transition_teleport water_lower_village.tmx,33,18,0.5"/>
+    <property name="act1" value="transition_teleport water_lower_village.tmx,34,18,0.5"/>
     <property name="cond1" value="is player_at"/>
    </properties>
   </object>
   <object id="22" name="Teleport to Lower Village" type="event" x="368" y="304" width="16" height="16">
    <properties>
-    <property name="act1" value="transition_teleport water_lower_village.tmx,34,18,0.5"/>
+    <property name="act1" value="transition_teleport water_lower_village.tmx,35,18,0.5"/>
     <property name="cond1" value="is player_at"/>
    </properties>
   </object>

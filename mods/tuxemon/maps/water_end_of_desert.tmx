@@ -235,50 +235,16 @@
     <property name="cond2" value="is player_moved"/>
    </properties>
   </object>
-  <object id="24" name="Water Intro" type="event" x="176" y="496" width="16" height="16">
+  <object id="24" name="Water Intro" type="event" x="160" y="496" width="16" height="16">
    <properties>
-    <property name="act1" value="play_music music_airship"/>
-    <property name="act20" value="translated_dialog water_intro1"/>
-    <property name="act30" value="translated_dialog water_intro2"/>
-    <property name="act40" value="translated_dialog water_intro3"/>
-    <property name="act50" value="translated_dialog water_intro4"/>
-    <property name="act98" value="play_music music_arpanauts"/>
-    <property name="act99" value="set_variable water_intro:yes"/>
-    <property name="cond1" value="is player_at"/>
-    <property name="cond2" value="not variable_set water_intro:yes"/>
-   </properties>
-  </object>
-  <object id="25" name="Water Intro" type="event" x="192" y="512" width="16" height="16">
-   <properties>
+    <property name="act1" value="player_face down"/>
+    <property name="act11" value="play_music music_arpanauts"/>
     <property name="act20" value="translated_dialog water_intro1"/>
     <property name="act30" value="translated_dialog water_intro2"/>
     <property name="act40" value="translated_dialog water_intro3"/>
     <property name="act50" value="translated_dialog water_intro4"/>
     <property name="act99" value="set_variable water_intro:yes"/>
-    <property name="cond1" value="is player_at"/>
-    <property name="cond2" value="not variable_set water_intro:yes"/>
-   </properties>
-  </object>
-  <object id="26" name="Water Intro" type="event" x="176" y="528" width="16" height="16">
-   <properties>
-    <property name="act20" value="translated_dialog water_intro1"/>
-    <property name="act30" value="translated_dialog water_intro2"/>
-    <property name="act40" value="translated_dialog water_intro3"/>
-    <property name="act50" value="translated_dialog water_intro4"/>
-    <property name="act99" value="set_variable water_intro:yes"/>
-    <property name="cond1" value="is player_at"/>
-    <property name="cond2" value="not variable_set water_intro:yes"/>
-   </properties>
-  </object>
-  <object id="27" name="Water Intro" type="event" x="160" y="512" width="16" height="16">
-   <properties>
-    <property name="act20" value="translated_dialog water_intro1"/>
-    <property name="act30" value="translated_dialog water_intro2"/>
-    <property name="act40" value="translated_dialog water_intro3"/>
-    <property name="act50" value="translated_dialog water_intro4"/>
-    <property name="act99" value="set_variable water_intro:yes"/>
-    <property name="cond1" value="is player_at"/>
-    <property name="cond2" value="not variable_set water_intro:yes"/>
+    <property name="cond1" value="not variable_set water_intro:yes"/>
    </properties>
   </object>
   <object id="30" name="Teleport to Lower Village" type="event" x="112" y="0" width="16" height="16">
