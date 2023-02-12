@@ -90,7 +90,7 @@ python3 run_tuxemon.py
 
 *Not recommended* because it will change system-installed packages
 ```shell
-sudo apt install python3 python3-pygame python3-pip python3-imaging git
+sudo apt install python3 python3-pygame python3-pip python3-pil git
 git clone https://github.com/Tuxemon/Tuxemon.git
 cd Tuxemon
 sudo pip3 install -U -r requirements.txt
